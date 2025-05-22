@@ -14,5 +14,4 @@ public class Vehiculo {
     private final String modelo;
     private final Tipo tipo;
 
-
 }
